@@ -33,6 +33,7 @@
 
 - [WordPress SEO](https://wordpress.org/plugins/wordpress-seo/) - This WordPress SEO plugin helps you with your search engine optimization.
 - [All in One SEO Pack](http://wordpress.org/plugins/all-in-one-seo-pack/) -  Works out of the box for beginners, and has advanced features and an API for developers.
+- [PressProxy](https://pressproxy.io/) - A plugin for seamless integration with Cloudflare workers to inject a Wordpress blog into any website's `/blog` subdirectory.
 
 ## eCommerce
 
