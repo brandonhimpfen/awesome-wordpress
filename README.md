@@ -44,6 +44,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 ## eCommerce
 
 - [WooCommerce](http://www.woothemes.com/woocommerce/) - WooCommerce is a customizable, open-source eCommerce platform built on WordPress.
+- [DonatoTomato](https://wordpress.org/plugins/donatotomato/) - Donation plugin for nonprofits: floating Donate button, inline forms, recurring giving, and automatic tax receipts, with funds going to the organization's own Stripe account.
 - [Easy Digital Downloads](https://easydigitaldownloads.com/) - Everything you need to create your digital goods store in minutes.
 
 ## Database
